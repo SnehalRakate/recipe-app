@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.search-bar input {
+  padding: 8px;
+  font-size: 16px;
+}
+
+.search-bar button {
+  margin-left: 8px;
+  padding: 8px 16px;
+  font-size: 16px;
+}
+
+.search-bar select{
+  font-size: 16px;
+  margin-left: 8px;
+  padding: 8px 16px;
+}
+
+.recipe-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.recipe-card {
+  width: 200px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.recipe-card img {
+  width: 100%;
+  height: auto;
+}
+
+.recipe-card h3 {
+  font-size: 16px;
+  padding: 8px;
+  color: #333;
+}
+
+.recipe-detail {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+.recipe-detail img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.recipe-detail h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.recipe-detail p {
+  text-align: justify;
+  margin: 20px 0;
+}
+
+.recipe-detail ul {
+  list-style-type: none;
+  padding: 0;
+}
