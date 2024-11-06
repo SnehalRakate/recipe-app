@@ -32,7 +32,8 @@ const App = () => {
   return (
     <Router>
       <div className="App">
-        <h1>Recipe Ideas for Taylor</h1>
+        <h1>Recipe Ideas For Taylor</h1>
+
         <Routes>
           <Route
             path="/"
