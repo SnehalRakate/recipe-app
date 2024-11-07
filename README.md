@@ -15,6 +15,15 @@ The Recipe Finder App allows users to search for recipes based on the ingredient
 - **CSS**: For styling the app.
 
 ## How to Run the App Locally:
-1. Clone this repository:
+1. Clone this repository:git clone https://github.com/SnehalRakate/recipe-app.git
 2. Navigate into the project directory:cd recipe ideas
 3. Install dependencies:npm install
+4. Run the app: npm start
+
+## How to Use the App:
+1. Enter an ingredient (e.g., "chicken") in the search bar.
+2. Click on the recipe to view more details about the recipe, including ingredients and cooking instructions.
+
+## Deployment:
+You can access the live app at:
+- [Live App Link](https://codesandbox.io/p/github/SnehalRakate/recipe-app/master)
